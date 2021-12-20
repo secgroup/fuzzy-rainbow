@@ -11,7 +11,7 @@ The tool can be used for:
 - estimating the precomputation time and online performance;
 - reproducing and validating the results presented in the paper.
 
-## Reproducing results in the paper
+## Reproducing the results in the paper
 
 To reproduce the parameters and the estimated performance for DES and A5/1 presented in the paper set the `CIPHER` variable to one of the following values
 and execute the tool:
