@@ -3,7 +3,7 @@
 This [python tool](https://github.com/secgroup/fuzzy-rainbow/blob/main/calc.py) computes the parameter for the reference design proposed in the paper:
 
 Leonardo Veronese, Francesco Palmarini, Riccardo Focardi and Flaminia L. Luccio. _A fast and cost-effective design for FPGA-based fuzzy rainbow tradeoffs_.
-To appear in the [8th International Conference on Information Systems Security and Privacy (ICISSP'22)](https://icissp.scitevents.org/CallforPapers.aspx), 9-11 February, 2022.
+Proceedings of the [8th International Conference on Information Systems Security and Privacy (ICISSP'22)](https://icissp.scitevents.org/?y=2022), 9-11 February, 2022.
 
 The tool can be used for:
 
